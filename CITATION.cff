@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "MMLACO-ARRW: Mutual Information-Based Multi-Label Feature Selection"
+message: "If you use this software, please cite the associated article."
+type: software
+authors:
+  - family-names: Hatami
+    given-names: Mohammad
+  - family-names: Moradi
+    given-names: Parham
+repository-code: "https://github.com/mhmdhtmi/MMLACO-ARRW"
+license: MIT
+keywords:
+  - multi-label feature selection
+  - mutual information
+  - ant colony optimization
+  - machine learning
+  - feature selection
