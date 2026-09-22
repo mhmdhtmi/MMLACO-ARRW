@@ -1,0 +1,20 @@
+dataset: scene
+n_features: 294
+n_labels: 6
+selected_features: 40
+test_size: 0.30
+mlknn_k: 10
+aco:
+  iterations: 50
+  ants: 100
+  beta: 1
+  rho: 0.1
+  q0: 0.6
+  initial_pheromone: 0.1
+arrw:
+  alpha_max: 0.9
+  alpha_min: 0.1
+  gamma_min: 0.1
+  gamma_max: 0.9
+repetitions: 10
+seed_policy: "Use an explicit seed for every stochastic run; record the seed with the output."
